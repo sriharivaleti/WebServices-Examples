@@ -8,10 +8,10 @@ import javax.ws.rs.core.Response.ResponseBuilder;
 
 @Path("/download")
 public class FileDownloadService {
-	private static final String TEXT_FILE_PATH = "C:\\Users\\kaveti_s\\textfile.txt";
-	private static final String IMG_FILE_PATH = "C:\\Users\\kaveti_s\\img.jpg";
-	private static final String PDF_FILE_PATH = "C:\\Users\\kaveti_s\\pdffile.pdf";
-	private static final String XLS_FILE_PATH = "C:\\Users\\kaveti_s\\excel.xlsx";
+	private static final String TEXT_FILE_PATH = "C:\\Users\\smlcodes\\textfile.txt";
+	private static final String IMG_FILE_PATH = "C:\\Users\\smlcodes\\img.jpg";
+	private static final String PDF_FILE_PATH = "C:\\Users\\smlcodes\\pdffile.pdf";
+	private static final String XLS_FILE_PATH = "C:\\Users\\smlcodes\\excel.xlsx";
 
 	
 	//TEXTFILE DOWNLOAD
